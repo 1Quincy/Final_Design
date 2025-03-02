@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/code/employee_punch-in_system/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/employee_punch-in_system_autogen",
+	"CMAKE_BINARY_DIR" : "C:/code/employee_punch-in_system/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/code/employee_punch-in_system/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/code/employee_punch-in_system",
+	"CMAKE_SOURCE_DIR" : "C:/code/employee_punch-in_system",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/code/employee_punch-in_system/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/employee_punch-in_system_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "C:/code/employee_punch-in_system/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/employee_punch-in_system_autogen.dir/AutoRcc_headpic_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "headpic" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_headpic.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt2/6.5.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/code/employee_punch-in_system/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/employee_punch-in_system_autogen.dir/AutoRcc_headpic_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/code/employee_punch-in_system/headpic.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
